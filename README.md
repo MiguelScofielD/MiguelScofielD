@@ -76,7 +76,7 @@ Algorithm developed in QGIS/Python to calculate azimuths between point features.
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com" target="blank">
+<a href="www.linkedin.com/in/antonio-santana-de-oliveira-02333a274" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 
