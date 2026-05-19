@@ -51,16 +51,15 @@ Text-to-Speech application using local AI models.
 Algorithm developed in QGIS/Python to calculate azimuths between point features.
 
 ---
+## 📈 GitHub Activity
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MiguelScofielD&theme=tokyonight"/>
+</p>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelScofielD&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelScofielD&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelScofielD&theme=tokyo-night"/>
+</p> -->
 
 ---
 
@@ -76,7 +75,7 @@ Algorithm developed in QGIS/Python to calculate azimuths between point features.
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
